@@ -82,7 +82,7 @@ The Coil-Eaters do not have a central HQ. Instead, they infect the landscape thr
 - **Early Game:** A weird pamphlet. A chalk spiral on a wall. Some guy with signal-static eyes.  
 - **Mid Game:** A prediction comes true. Someone dies. A diagram matches a real event.  
 - **Late Game:** The pieces click. The message wasn’t random. The pattern was real.  
-- **Endgame:** The Coil-Eaters have been repeating Kaelith’s signal this entire time. Players just never tuned into the right frequency.
+- **Endgame:** The Coil-Eaters have been repeating [[Unknown]]’s signal this entire time. Players just never tuned into the right frequency.
 
 ---
 
