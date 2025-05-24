@@ -5,9 +5,9 @@
 
 ## 📦 Phase 1: Foundational Worldbuilding Setup
 
-- [x] **City Framework & Indexing**
-  - [x] Create/finalize index page for all tiers (Rustfloor, Crucible, Mirage Rise, Pinnacle Row, Sealed Way)
-  - [x] Add 1–2 line description + links for each district
+- [ ] **City Framework & Indexing**
+  - [ ] Create/finalize index page for all tiers (Rustfloor, Crucible, Mirage Rise, Pinnacle Row, Sealed Way)
+  - [ ] Add 1–2 line description + links for each district
 
 - [ ] **Core Lore & Themes**
   - [ ] Write background lore for Copperview (formation, rise, structure)
